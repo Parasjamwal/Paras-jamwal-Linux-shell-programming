@@ -1,2 +1,2 @@
-# Paras-jamwal-Linux-shell-programming
+#Linux-shell-programming
 Lab activities
